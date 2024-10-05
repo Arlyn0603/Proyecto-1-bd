@@ -15,4 +15,16 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\template\css\.DS_Store" />
+    <None Include="wwwroot\template\images\.DS_Store" />
+    <None Include="wwwroot\template\js\.DS_Store" />
+    <None Include="wwwroot\template\js\revolution\.DS_Store" />
+    <None Include="wwwroot\template\js\revolution\js\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\template\icon\" />
+  </ItemGroup>
+
 </Project>
